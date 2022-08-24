@@ -1,5 +1,3 @@
-### Here is What I'm Working On! 👋
-
 # 💫 About Me:
 🔭 I’m currently studying at  Yıldız Technical University<br>🌱 I’m currently learning Python - Java<br>👯 I’m looking to collaborate on Python - Java - SQL<br>🤔 I’m looking for help with Cloud Technology<br>💬 Ask me about Anything<br>📫 How to reach me: LinkedIn<br>😄 Pronouns:  She/her<br>⚡ Fun fact: I'm a sous chef in my kitchen
 
