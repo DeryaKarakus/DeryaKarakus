@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/karakusderya/)
 - 😄 Pronouns: ... She/her
 - ⚡ Fun fact: ... I'm a sous chef in my kitchen 
--->
+
