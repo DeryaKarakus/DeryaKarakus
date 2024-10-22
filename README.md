@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at  Yıldız Technical University<br>🌱 I’m currently learning Swift - Kotlin<br>👯 I’m looking to collaborate on Swift - Kotlin - SQL<br>🤔 I’m looking for help with Cloud Technology<br>💬 Ask me about Anything<br>📫 How to reach me: LinkedIn<br>😄 Pronouns:  She/her<br>⚡ Fun fact: I'm a sous chef in my kitchen
+🔭 I’m currently studying at  Yıldız Technical University<br>🌱 I’m currently learning Swift - Kotlin<br>👯 I’m looking to collaborate on Swift - Kotlin - SQL<br>💬 Ask me about Anything<br>📫 How to reach me: LinkedIn<br>😄 Pronouns:  She/her<br>⚡ Fun fact: I'm a sous chef in my kitchen
 
 
 ## 🌐 Socials:
